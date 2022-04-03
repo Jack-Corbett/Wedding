@@ -4,6 +4,7 @@
 
 title = "Zoe and Jack Wedding"
 theme = "hugo-story"
+baseurl = "https:/jack-corbett.github.io/wedding/"
 
 
 ## -----------------------------------------------
