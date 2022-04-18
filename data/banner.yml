@@ -4,8 +4,8 @@ title : "The Wedding of Zoe & Jack"
 subtitle: |
   April 14th 2023
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Hello world
 button:
   label : "RSVP"
-  link : "#first"
+  link : "mailto:jackcorbett16@gmail.com,zoelhunt12@gmail.com?subject=RSVP&body=Hi%20Jack%20and%20Zoe%2C%0D%0A%0D%0AI%20will%20be%20attending%20the%20wedding%20celebrations%20on%20the%2014th%20of%20April%202023%20in%20Tenerife."
 image : "images/banner.jpeg"

@@ -1,6 +1,6 @@
 title : "Accommodation"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+  Hotel Vincci Selection La Plantacion (link) is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
