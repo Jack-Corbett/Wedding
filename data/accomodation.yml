@@ -1,55 +1,86 @@
 title : "Accommodation"
 content: |
-  Hotel Vincci Selection La Plantacion (link) is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
+  Hotel Vincci Selection La Plantacion is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Hotel Vincci Selection La Plantacio"
+  - name : "Wedding Venue"
     stars: 5
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-hotel"
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
     button: 
       label: "View"
-      link: "https://goo.gl/maps/AmCG8e8kZyTwmqpSA"
+      link: "#"
 
   # feature item loop
-  - name : "Two"
+  - name : "Jardines de Nivaria"
+    stars: 5
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+    
+  # feature item loop
+  - name : "Riu Arecas"
+    stars: 5
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+
+  # feature item loop
+  - name : "Meliá Jardines del Teide"
+    stars: 5
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+
+  # feature item loop
+  - name : "Guayarmina Princess"
+    stars: 4
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+
+  # feature item loop
+  - name : "H10 Costa Adeje Palace"
+    stars: 4
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+    
+  # feature item loop
+  - name : "GF Isabel"
+    stars: 4
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
+    
+  # feature item loop
+  - name : "Los Olivos"
     stars: 3
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
     
   # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
-    
-  # feature item loop
-  - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
-    
-  # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
-    
-  # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-    
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-    
-  # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-    
-  # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
+  - name : "Yucca Park"
+    stars: 3
+    content : "To Airport: 15 minutes"
+    style : "style2 major"
+    button: 
+      label: "View"
+      link: "#"
     

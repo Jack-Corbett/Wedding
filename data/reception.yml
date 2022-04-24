@@ -3,9 +3,10 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "first"
 title : "Reception"
 content: |
-  The reception to follow will be held close by in the La Jaima Restaurant of the Hotel. 
-  Later into the evening for drinks and dancing we will move inside to the Mirador Jazz Club. 
+  The reception to follow will be held close by in the La Jaima Restaurant of the Hotel.
+  Provided over 35 guests join us to celebrate we will be having a BBQ Buffet.
+  Later into the evening, for drinks and dancing, we will move inside to the Mirador Jazz Club. 
 button: 
-  label: "Learn More"
+  label: "View the Menu"
   link: "#"
 image: "images/reception.jpeg"

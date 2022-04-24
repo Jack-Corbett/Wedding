@@ -3,8 +3,8 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Ceremony"
 content: |
   The ceremony will be on the hotel's lawn overlooking the sea and white sand Duque Beach. 
-  The weather in Costa Adeje  during April is typically between 20-25 degrees but could get chilly once the sun goes down.
+  The weather in Costa Adeje during April is typically between 20-23 degrees but could get chilly once the sun goes down.
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "April Forecast"
+  link: "https://www.holiday-weather.com/costa_adeje/averages/april/"
 image: "images/ceremony.jpg"

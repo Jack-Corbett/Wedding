@@ -1,1 +1,6 @@
 title: Flights
+content: |
+  The hotel is a 14 minute taxi ride from Tenerife South Airport (TFS). There are flights every Tuesday and Friday from Bournemouth Airport or you can fly from other UK Airports anytime.
+button: 
+  label: "Search on Skyscanner"
+  link: "https://www.skyscanner.net/"
