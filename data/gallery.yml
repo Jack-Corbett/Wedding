@@ -1,4 +1,4 @@
-style: "style2 medium lightbox onscroll-fade-in"
+style: "style2 medium lightbox"
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
