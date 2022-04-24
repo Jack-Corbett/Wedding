@@ -1,7 +1,10 @@
-title: "Gallery"
-style: "style2 medium lightbox onscroll-fade-in"
+title: "We hope you can join us"
+style: "style1 medium lightbox onscroll-fade-in"
 content: |
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+  Please use the RSVP button below or contact Zoe or Jack directly
+button:
+  label : "RSVP"
+  link : "mailto:jackcorbett16@gmail.com,zoelhunt12@gmail.com?subject=RSVP&body=Hi%20Jack%20and%20Zoe%2C%0D%0A%0D%0AI%20will%20be%20attending%20the%20wedding%20celebrations%20on%20the%2014th%20of%20April%202023%20in%20Tenerife."
 pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
@@ -49,29 +52,5 @@ pictures:
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
     image: "images/gallery/fulls/08.jpg"
     thumb: "images/gallery/thumbs/08.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/09.jpg"
-    thumb: "images/gallery/thumbs/09.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/10.jpg"
-    thumb: "images/gallery/thumbs/10.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/11.jpg"
-    thumb: "images/gallery/thumbs/11.jpg"
-    button: "Details"
-
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "images/gallery/fulls/12.jpg"
-    thumb: "images/gallery/thumbs/12.jpg"
     button: "Details"
     
