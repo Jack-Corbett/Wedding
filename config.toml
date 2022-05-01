@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Zoe and Jack Wedding"
+title = "The Wedding of Jack and Zoe"
 theme = "hugo-story"
 baseurl = "https://jackandzoe.co.uk"
 
