@@ -1,11 +1,28 @@
 style: "style2 medium lightbox"
 pictures:
-  - image: "images/gallery/sunset.jpg"
-  - image: "images/gallery/steps.jpg"
-  - image: "images/gallery/table.jpg"
-  - image: "images/gallery/selfie.jpg"
-  - image: "images/gallery/beach.jpg"
-  - image: "images/gallery/palm.jpg"
-  - image: "images/gallery/overview.jpg"
-  - image: "images/gallery/sea.jpg"
-  - image: "images/gallery/night.jpg"
+  - image: "images/gallery/fulls/sunset.jpg"
+    thumb: "images/gallery/thumbs/sunset.jpg"
+
+  - image: "images/gallery/fulls/steps.jpg"
+    thumb: "images/gallery/thumbs/steps.jpg"
+
+  - image: "images/gallery/fulls/table.jpg"
+    thumb: "images/gallery/thumbs/table.jpg"
+
+  - image: "images/gallery/fulls/selfie.jpg"
+    thumb: "images/gallery/thumbs/selfie.jpg"
+
+  - image: "images/gallery/fulls/beach.jpg"
+    thumb: "images/gallery/thumbs/beach.jpg"
+
+  - image: "images/gallery/fulls/palm.jpg"
+    thumb: "images/gallery/thumbs/palm.jpg"
+
+  - image: "images/gallery/fulls/overview.jpg"
+    thumb: "images/gallery/thumbs/overview.jpg"
+
+  - image: "images/gallery/fulls/sea.jpg"
+    thumb: "images/gallery/thumbs/sea.jpg"
+
+  - image: "images/gallery/fulls/night.jpg"
+    thumb: "images/gallery/thumbs/night.jpg"
