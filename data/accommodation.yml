@@ -6,29 +6,31 @@ items:
   # feature item loop
   - name : "Wedding Venue"
     stars: 5
-    content : "To Airport: 15 minutes"
+    content : |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-ObSXkXZ"
 
   # feature item loop
-  - name : "Jardines de Nivaria"
-    stars: 5
-    content : "To Airport: 15 minutes"
-    style : "style2 major"
-    button: 
-      label: "View"
-      link: "#"
+  # Too Expensive (may as well stay in our hotel)
+  # - name : "Jardines de Nivaria"
+  #   stars: 5
+  #   content : "To Airport: 15 minutes"
+  #   style : "style2 major"
+  #   button: 
+  #     label: "View"
+  #     link: "#"
     
   # feature item loop
-  - name : "Riu Arecas"
-    stars: 5
-    content : "To Airport: 15 minutes"
-    style : "style2 major"
-    button: 
-      label: "View"
-      link: "#"
+  # - name : "Riu Arecas"
+  #   stars: 5
+  #   content : "To Airport: 15 minutes"
+  #   style : "style2 major"
+  #   button: 
+  #     label: "View"
+  #     link: "#"
 
   # feature item loop
   - name : "Meliá Jardines del Teide"
@@ -37,16 +39,16 @@ items:
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-JRHf4I"
 
   # feature item loop
-  - name : "Guayarmina Princess"
-    stars: 4
-    content : "To Airport: 15 minutes"
-    style : "style2 major"
-    button: 
-      label: "View"
-      link: "#"
+  # - name : "Guayarmina Princess"
+  #   stars: 4
+  #   content : "To Airport: 15 minutes"
+  #   style : "style2 major"
+  #   button: 
+  #     label: "View"
+  #     link: "#"
 
   # feature item loop
   - name : "H10 Costa Adeje Palace"
@@ -55,7 +57,7 @@ items:
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-PmeLiQ"
     
   # feature item loop
   - name : "GF Isabel"
@@ -64,7 +66,7 @@ items:
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-dH0wPQ"
     
   # feature item loop
   - name : "Los Olivos"
@@ -73,7 +75,7 @@ items:
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-MZ9mEn"
     
   # feature item loop
   - name : "Yucca Park"
@@ -82,5 +84,5 @@ items:
     style : "style2 major"
     button: 
       label: "View"
-      link: "#"
+      link: "http://www.booking.com/Share-iDEkEW"
     
