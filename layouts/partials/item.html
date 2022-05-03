@@ -4,8 +4,9 @@
     <span class="icon solid fa-star"></span>
     {{ end }}
     <br/><br/>
-    <p>{{ .content }}</p>
     {{ with .button }}<ul class="actions stacked">
         <li><a href="{{ .link }}" target="_blank" class="button">{{ .label }}</a></li>
     </ul>{{ end }}
+    {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+    
 </section>

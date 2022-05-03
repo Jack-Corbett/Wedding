@@ -3,7 +3,8 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "fourth"
 title : "We hope you can join us"
 content: |
-  Please use the RSVP button below or contact us directly
+  We appreciate that joining us in Tenerife to celebrate our marriage is a tall ask, so we completely understand if you're unable to attend and the honour of your presence is the only gift that we wish to receive. <br/><br/>
+  Please use the RSVP button below or contact us directly via text, phone or social media. We cannot wait to celebrate with you in the sunhsine!
 button:
   label : "RSVP"
   link : "mailto:jackcorbett16@gmail.com,zoelhunt12@gmail.com?subject=RSVP&body=Hi%20Jack%20and%20Zoe%2C%0D%0A%0D%0AI%20will%20be%20attending%20the%20wedding%20celebrations%20on%20the%2014th%20of%20April%202023%20in%20Tenerife."

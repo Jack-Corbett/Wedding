@@ -1,13 +1,15 @@
 title : "Accommodation"
 content: |
-  Hotel Vincci Selection La Plantacion is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
+  Hotel Vincci Selección La Plantación del Sur is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Wedding Venue"
     stars: 5
     content : |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Our Wedding Hotel is a <b>15</b> minute taxi ride from the Airport. <br/><br/>
+      If you're intersted in staying here, contact us directly for the price.
+      This is a family-friendly hotel which offers a range of rooms from villas with private terraces and whirlpool tubs to sea view double rooms and suites.
     style : "style2 major"
     button: 
       label: "View"
@@ -35,7 +37,9 @@ items:
   # feature item loop
   - name : "Meliá Jardines del Teide"
     stars: 5
-    content : "To Airport: 15 minutes"
+    content : |
+      The Meliá Hotel is a <b>15</b> minute taxi ride from the Airport and a <b>7</b> minute walk to the Wedding Venue. <br/><br/>
+      This is a recently-renovated modern, family-friendly hotel with relaxed rooms. The rooms are Air-conditioned, have free WiFi and sea views.
     style : "style2 major"
     button: 
       label: "View"
@@ -53,7 +57,9 @@ items:
   # feature item loop
   - name : "H10 Costa Adeje Palace"
     stars: 4
-    content : "To Airport: 15 minutes"
+    content : |
+      The H10 is a <b>15</b> minute taxi ride from the Airport and a <b>20</b> minute walk to the Wedding Venue. <br/><br/>
+      Located on the seafront and with direct access to La Enramada beach, this Mediterranean-style hotel is known for its magnificent infinity swimming pools, jacuzzis, Chill-Out Terrace with spectacular sea views, and lush Canary Island gardens.
     style : "style2 major"
     button: 
       label: "View"
