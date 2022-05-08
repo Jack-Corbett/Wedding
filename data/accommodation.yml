@@ -1,65 +1,37 @@
 title : "Accommodation"
 content: |
-  Hotel Vincci Selección La Plantación del Sur is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. 
+  Hotel Vincci Selección La Plantación del Sur is offering us special rates for wedding guests so you won't have far to go. But there are lots of other great places to stay in the area and we've included some of our favourites below. If you're a larger group there are also lots of apartments/villas available nearby through Airbnb.
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "Wedding Venue"
     stars: 5
     content : |
-      Our Wedding Hotel is a <b>15</b> minute taxi ride from the Airport. <br/><br/>
+      Our Wedding Hotel is <b>15</b> minutes by taxi from the Airport. <br/><br/>
       If you're intersted in staying here, contact us directly for the price.
-      This is a family-friendly hotel which offers a range of rooms from villas with private terraces and whirlpool tubs to sea view double rooms and suites.
+      The hotel offers a range of rooms from villas with private terraces and whirlpool tubs to sea view double rooms and suites.
     style : "style2 major"
     button: 
       label: "View"
       link: "http://www.booking.com/Share-ObSXkXZ"
 
   # feature item loop
-  # Too Expensive (may as well stay in our hotel)
-  # - name : "Jardines de Nivaria"
-  #   stars: 5
-  #   content : "To Airport: 15 minutes"
-  #   style : "style2 major"
-  #   button: 
-  #     label: "View"
-  #     link: "#"
-    
-  # feature item loop
-  # - name : "Riu Arecas"
-  #   stars: 5
-  #   content : "To Airport: 15 minutes"
-  #   style : "style2 major"
-  #   button: 
-  #     label: "View"
-  #     link: "#"
-
-  # feature item loop
   - name : "Meliá Jardines del Teide"
     stars: 5
     content : |
-      The Meliá Hotel is a <b>15</b> minute taxi ride from the Airport and a <b>7</b> minute walk to the Wedding Venue. <br/><br/>
-      This is a recently-renovated modern, family-friendly hotel with relaxed rooms. The rooms are Air-conditioned, have free WiFi and sea views.
+      The Meliá Hotel is <b>15</b> minutes by taxi from the Airport and a <b>7</b> minute walk to the Wedding Venue. <br/><br/>
+      Although we haven't stayed here before, it's really close by, well reviewed and is slightly more affordably priced than our Wedding Venue for similar quality.
     style : "style2 major"
     button: 
       label: "View"
       link: "http://www.booking.com/Share-JRHf4I"
 
   # feature item loop
-  # - name : "Guayarmina Princess"
-  #   stars: 4
-  #   content : "To Airport: 15 minutes"
-  #   style : "style2 major"
-  #   button: 
-  #     label: "View"
-  #     link: "#"
-
-  # feature item loop
   - name : "H10 Costa Adeje Palace"
     stars: 4
     content : |
-      The H10 is a <b>15</b> minute taxi ride from the Airport and a <b>20</b> minute walk to the Wedding Venue. <br/><br/>
-      Located on the seafront and with direct access to La Enramada beach, this Mediterranean-style hotel is known for its magnificent infinity swimming pools, jacuzzis, Chill-Out Terrace with spectacular sea views, and lush Canary Island gardens.
+      The H10 is <b>15</b> minutes by taxi from the Airport and a <b>20</b> minute walk to the Wedding Venue. <br/><br/>
+      This family friendly hotel is right on the front, reasonably priced and offers a range of catering options. The walk to the venue is quite up-hill so you might prefer to get a taxi.
     style : "style2 major"
     button: 
       label: "View"
@@ -68,7 +40,9 @@ items:
   # feature item loop
   - name : "GF Isabel"
     stars: 4
-    content : "To Airport: 15 minutes"
+    content : |
+      The GF Isabel is <b>14</b> minutes by taxi from the Airport and a <b>13</b> minute walk to the Wedding Venue. <br/><br/>
+      If you're looking for something with extra space and a kitchen, the GF Isabel is a complex of apartments and bungalows with terraces or gardens which still offers a range of catering options.
     style : "style2 major"
     button: 
       label: "View"
@@ -77,7 +51,9 @@ items:
   # feature item loop
   - name : "Los Olivos"
     stars: 3
-    content : "To Airport: 15 minutes"
+    content : |
+      Los Olivos Beach Resort is <b>14</b> minutes by taxi from the Airport and a <b>17</b> minute walk to the Wedding Venue. <br/><br/>
+      We have stayed here many times and Jack's Grandparents owned an apartment here for 25 years. There are 1 and 2 bedroom apartments with terraces or gardens in a family friendly complex.
     style : "style2 major"
     button: 
       label: "View"
@@ -86,7 +62,9 @@ items:
   # feature item loop
   - name : "Yucca Park"
     stars: 3
-    content : "To Airport: 15 minutes"
+    content : |
+      Yucca Park is also <b>14</b> minutes by taxi from the Airport and a <b>17</b> minute walk to the Wedding Venue. <br/><br/>
+      We have stayed here many years ago, the apart-hotel is in a great location and is very reasonably priced if you don't mind self catering (there are lots of great resturaunts and food shops nearby). 
     style : "style2 major"
     button: 
       label: "View"
