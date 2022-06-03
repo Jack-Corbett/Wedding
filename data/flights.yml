@@ -1,6 +1,8 @@
 title: Flights
 content: |
-  The hotel is a 15 minute taxi ride from Tenerife South Airport (TFS). There are flights every Tuesday and Friday from Bournemouth Airport or you can fly from other UK Airports anytime. Gatwick and Heathrow typically offer the most flexibility.
+  The hotel is a 15 minute taxi ride from Tenerife South Airport (TFS). For guests travelling from Southampton, both TUI and Ryanair fly from 
+  <a href="https://www.bournemouthairport.com/destinations/tenerife/" target="_blank">Bournemouth</a> on Tuesdays as well as Fridays and Saturdays respectively. 
+  However, if you are able to travel up, flights from larger airports like Gatwick and Heathrow offer more flexibily and are much more reasonably priced. 
 button: 
   label: "Search on Skyscanner"
   link: "https://www.skyscanner.net/"

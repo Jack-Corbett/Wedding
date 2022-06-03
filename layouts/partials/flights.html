@@ -2,7 +2,7 @@
 <section class="wrapper style1 align-center">
     <div class="inner">
         <h2>{{ .title }}</h2>
-        <p>{{ .content }}</p>
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">
             <li><a href="{{ .link }}" target="_blank" class="button">{{ .label }}</a></li>
         </ul>{{ end }}
