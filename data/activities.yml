@@ -1,6 +1,6 @@
 title: "Activities"
 content: |
-  We have been visiting Tenerife for many years so wanted to share some our favourite places to visit and things to do while you're on the island.
+  We have been visiting Tenerife for many years so wanted to share some of our favourite places to visit and things to do while you're on the island.
 button: 
   label: "See all on a Map"
   link: "https://goo.gl/maps/WscdHD6DivDqY8rHA"
@@ -49,7 +49,7 @@ items:
   # feature item loop
   - name : "The Duke Shops"
     content : |
-      A complex with a few shops, nice resturaunts and bars just down the hill from the Wedding Hotel.
+      A complex with a few shops, nice restaurants and bars just down the hill from the Wedding Hotel.
     style : "style2 major fa-cocktail"
 
   # feature item loop

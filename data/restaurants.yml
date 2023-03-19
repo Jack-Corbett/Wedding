@@ -1,6 +1,6 @@
 title : "Restaurants"
 content: |
-  We have also included some of our favourite resturaunts below that we always come back to.
+  We have also included some of our favourite restaurants below that we always come back to.
 button: 
   label: "See all on a Map"
   link: "https://goo.gl/maps/tdimDZJxLDNUHThLA"
@@ -9,7 +9,7 @@ items:
   # feature item loop
   - name : "Rosso Sul Mare"
     content : |
-      A beautiful Italian resturaunt with excellent service on the sea front in Calleta, a quaint finishing village, perfect for a romantic evening. 
+      A beautiful Italian restaurant with excellent service on the seafront in Calleta, a quaint finishing village, perfect for a romantic evening. 
     style : "style2 major fa-pizza"
   
   # feature item loop
@@ -21,7 +21,7 @@ items:
   # feature item loop
   - name : "Prime 400"
     content : |
-      Excellent and reasonably priced steaks as well as lots of other options with great cokctails, the Kiwi Daiquiri is lovely!
+      Excellent and reasonably priced steaks as well as lots of other options with great cocktails, the Kiwi Daiquiri is lovely!
     style : "style2 major fa-steak"
 
   # feature item loop
@@ -39,7 +39,7 @@ items:
   # feature item loop
   - name : "Yum Yum Thai"
     content : |
-      Next to Prime 400 in the Duke's shopping centre it offers a great range of Thai cuisine and cocktails.
+      Next to Prime 400 in the Duke's shopping centre, it offers a great range of Thai cuisine and cocktails.
     style : "style2 major fa-soup"
 
   # feature item loop
