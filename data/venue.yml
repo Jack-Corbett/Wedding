@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
 title : "Venue"
+id: "venue"
 content: |
-  <br/> Our celebration will take place at the beautiful Hotel Vincci Selección La Plantación del Sur in sunny Costa Adeje, Tenerife. <br/><br/>
+  <br/> Our celebration will take place at the beautiful Hotel Vincci Selección La Plantación del Sur in sunny Costa Adeje, Tenerife. Guests should arrive at the hotel for 5:15 PM. <br/><br/>
 button: 
   label: "See on a Map"
   link: "https://goo.gl/maps/AmCG8e8kZyTwmqpSA"

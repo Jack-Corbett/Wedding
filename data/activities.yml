@@ -1,0 +1,65 @@
+title: "Activities"
+content: |
+  We have been visiting Tenerife for many years so wanted to share some our favourite places to visit and things to do while you're on the island.
+button: 
+  label: "See all on a Map"
+  link: "https://goo.gl/maps/WscdHD6DivDqY8rHA"
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Siam Park"
+    id : "activities"
+    content : |
+      Siam Park is rated as the best water park in the world on Tripadvisor and it's always a great day out. <br/><br/>
+      We are planning a visit on <b>Sunday</b> the <b>16th of April</b> (2 days after the wedding) if you'd like to join us, the more the merrier!
+    style : "style2 major fa-dragon"
+  
+  # feature item loop
+  - name : "Karting Las Americas"
+    content : |
+      Karting Las Americas is a Go Kart track a 20 minute walk from the Wedding Hotel. <br/><br/>
+      We went for the first time last year and had great fun. It would also be good with a big group if people are interested!
+    style : "style2 major fa-flag-checkered"
+
+  # feature item loop
+  - name : "Teide National Park"
+    content : |
+      Mount Teide is the volcano at the centre of Tenerife which is the tallest peak in Spain. <br/><br/>
+      You can take a cable car up to the top for an incredible view and there are many walking trails which take you through pine forests and over rocky volcanic terrain. 
+    style : "style2 major fa-volcano"
+
+  # feature item loop
+  - name : "Duque Beach"
+    content : |
+      Our favourite white sand beach in Tenerife which is right in front of the Wedding Hotel.
+    style : "style2 major fa-umbrella-beach"
+
+  # feature item loop
+  - name : "Barranco del Infierno"
+    content : |
+      A hiking trail through the mountains to a waterfall with stunning views, a 12 minute taxi ride away. 
+    style : "style2 major fa-tree"
+    
+  # feature item loop
+  - name : "Puerto Colón"
+    content : |
+      There is a huge range of water sports available. Parascending, Jet Skis and Whale Watching boat trips.
+    style : "style2 major fa-anchor"
+
+  # feature item loop
+  - name : "The Duke Shops"
+    content : |
+      A complex with a few shops, nice resturaunts and bars just down the hill from the Wedding Hotel.
+    style : "style2 major fa-cocktail"
+
+  # feature item loop
+  - name : "Siam Mall"
+    content : |
+      Siam Mall is a lovely shopping centre right next to Siam Park with a great range of shops and places to eat.
+    style : "style2 major fa-bags-shopping"
+
+# feature item loop
+  - name : "Plaza del Duque and The Corner"
+    content : |
+      Two lovely shopping complexes a short walk from the Duque beach.
+    style : "style2 major fa-tag"

@@ -1,9 +1,12 @@
-<section>
+<section {{ with .id }} id="{{ . }}"{{ end }}>
+    <span class="icon {{ .style }}"></span>
     <h3>{{ .name }}</h3>
+    {{ if .stars }}
     {{ range $i, $sequence :=  (seq .stars) }}
     <span class="icon solid fa-star"></span>
     {{ end }}
     <br/><br/>
+    {{ end }}
     {{ with .button }}<ul class="actions stacked">
         <li><a href="{{ .link }}" target="_blank" class="button">{{ .label }}</a></li>
     </ul>{{ end }}

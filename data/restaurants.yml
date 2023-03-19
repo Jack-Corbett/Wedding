@@ -1,0 +1,61 @@
+title : "Restaurants"
+content: |
+  We have also included some of our favourite resturaunts below that we always come back to.
+button: 
+  label: "See all on a Map"
+  link: "https://goo.gl/maps/tdimDZJxLDNUHThLA"
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Rosso Sul Mare"
+    content : |
+      A beautiful Italian resturaunt with excellent service on the sea front in Calleta, a quaint finishing village, perfect for a romantic evening. 
+    style : "style2 major fa-pizza"
+  
+  # feature item loop
+  - name : "La Tosca"
+    content : |
+      Although technically also Italian, La Tosca has a wide range of great food options for a reasonable price close to the Wedding Hotel.
+    style : "style2 major fa-utensils"
+
+  # feature item loop
+  - name : "Prime 400"
+    content : |
+      Excellent and reasonably priced steaks as well as lots of other options with great cokctails, the Kiwi Daiquiri is lovely!
+    style : "style2 major fa-steak"
+
+  # feature item loop
+  - name : "Harley's"
+    content : |
+      A good range focusing on American food and if you like you can dine in a classic car, although we'd recommend sitting inside.
+    style : "style2 major fa-hamburger"
+
+  # feature item loop
+  - name : "Hard Rock Cafe"
+    content : |
+      A bit further away in Las Americas but it is well worth the visit for the food and there's a really good crazy golf course opposite.
+    style : "style2 major fa-guitar-electric"
+    
+  # feature item loop
+  - name : "Yum Yum Thai"
+    content : |
+      Next to Prime 400 in the Duke's shopping centre it offers a great range of Thai cuisine and cocktails.
+    style : "style2 major fa-soup"
+
+  # feature item loop
+  - name : "Cafe la Bahía"
+    content : |
+      Our favourite ice cream place at the back of the Duque beach, they have an incredible range of flavours.
+    style : "style2 major fa-ice-cream"
+
+  # feature item loop
+  - name : "Beach Club Bahía del Duque"
+    content : |
+      A great spot at the back of the Duque beach for a drink or snack. The Sangria is good.
+    style : "style2 major fa-glass-martini"
+
+# feature item loop
+  - name : "Coqueluche Beach Bar"
+    content : |
+      Casual beach bar with good drinks. A good place to sit and watch the sea or the paragliders landing on the beach.
+    style : "style2 major fa-umbrella-beach"

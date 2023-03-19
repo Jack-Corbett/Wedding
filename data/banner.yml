@@ -8,6 +8,6 @@ content : |
   Together with our families, we would love for you to join us for the celebration of our marriage. <br/><br/>
   Please see the full details below.
 button:
-  label : "RSVP"
-  link : "mailto:jackcorbett16@gmail.com,zoelhunt12@gmail.com?subject=RSVP&body=Hi%20Jack%20and%20Zoe%2C%0D%0A%0D%0A"
+  label : "Activity and Dining Ideas"
+  link : "#activities"
 image : "images/banner.jpg"
